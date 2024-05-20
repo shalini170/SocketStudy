@@ -78,9 +78,14 @@ s.connect(('localhost',8000))
 print(s.getsockname())
 print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
+```
 
+##output:
 client:
-```![Screenshot 2024-05-20 172136](https://github.com/shalini170/SocketStudy/assets/151901983/08c17038-e12f-45ac-a76b-ff42b48423fc)
+
+![image](https://github.com/shalini170/SocketStudy/assets/151901983/7266bbb0-099f-49ee-8830-bf2ea62c53e2)
+
+
 server:
 
 ![image](https://github.com/shalini170/SocketStudy/assets/151901983/07102f9a-ccdf-4bae-9253-afcc057ba760)
