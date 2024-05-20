@@ -1,4 +1,4 @@
-![Screenshot 2024-05-20 172136](https://github.com/shalini170/SocketStudy/assets/151901983/d6ccac9c-e578-4ba5-9e14-7e0fa7a1e7a2)# Ex.No:1a  			Study of Socket Programming
+# Ex.No:1a  			Study of Socket Programming
 
 shalini venkatesulu
 212223220104
